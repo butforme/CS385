@@ -1,0 +1,18 @@
+	"CS385 Header": {
+		"prefix": "/*",
+		"body": [
+		  "/*******************************************************************************",
+		  " * Name    : ${1:name}",
+		  " * Author  : Peter Rauscher",
+		  " * Version : 1.0",
+		  " * Date    : ${2:date}",
+		  " * Description : ${3:desc}",
+		  " * Pledge : I pledge my honor that I have abided by the Stevens Honor System.",
+		  " ******************************************************************************/",
+		  " #include <iostream>",
+		  " ",
+		  "using namespace std;"
+		],
+		"description": "Header and pledge for cpp file."
+	  }
+}
